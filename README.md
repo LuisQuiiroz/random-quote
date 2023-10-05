@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Random quote</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://random-quote-q.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/LuisQuiiroz/random-quote">
       Solution
     </a>
     <span> | </span>
@@ -31,27 +31,37 @@
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![image](https://github.com/LuisQuiiroz/random-quote/assets/93633867/588d8a14-8bff-4096-97b4-1eea95e2293a)
+
+![image](https://github.com/LuisQuiiroz/random-quote/assets/93633867/e5b7de59-71bc-4d74-a681-bbb61c182745)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+
+  [Here](https://random-quote-q.netlify.app/)
 - What was your experience?
+
+  My experience was satisfactory, there were no complications.
+  
 - What have you learned/improved?
+
+  I improved error handling when doing a fetch
+
 - Your wisdom? :)
+
+   Everything is possible with patience and creativity
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
 - [Tailwind](https://tailwindcss.com/)
 
 ## Features
@@ -69,7 +79,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/LuisQuiiroz/random-quote.git
 
 # Install dependencies
 $ npm install
@@ -78,16 +88,8 @@ $ npm install
 $ npm start
 ```
 
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [LuisQuiiroz](https://github.com/LuisQuiiroz)
+- LinkedIn [LuisQuiiroz](https://www.linkedin.com/in/luis-quiiroz/)
+- Twitter [Luis_Quiiroz](https://twitter.com/Luis_Quiiroz)
